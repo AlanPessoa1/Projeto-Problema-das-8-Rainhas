@@ -73,5 +73,3 @@ O arquivo `solucoes.txt` contém todas as soluções encontradas. Os arquivos `.
 ## Uso de Inteligência Artificial Generativa
 
 Durante o desenvolvimento deste projeto, foi utilizada ferramenta de Inteligência Artificial Generativa para apoio na organização da solução, revisão da explicação do algoritmo, estruturação do código e preparação do material textual.
-
-O conteúdo final, a implementação e a validação da solução são de responsabilidade do autor.

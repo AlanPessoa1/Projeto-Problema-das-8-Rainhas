@@ -1,0 +1,7 @@
+Estatísticas da execução
+
+Total de soluções encontradas: 92
+Chamadas recursivas: 2057
+Tentativas de posicionamento: 15720
+Posições válidas testadas: 2056
+Retrocessos realizados: 2056
